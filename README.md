@@ -16,4 +16,4 @@ Since the texts much longer and much shorter than average are published news art
 2. Limited computer resource and a long run time:
 To deal with this issue, I cherry picked and tuned the most common hyperparmeters for the hybrid modles. Even though the performace of the models are pretty good, please kindly advice me with advanced techniques to overcome computer resource problem, shorten model run time, and at the same time tune more hyperparamters.
 
-This is my very first machine learning project using an unsupervised approach, as well as using nlp techniques. Your suggestions for improvements are more than welcome!
+This is my very first machine learning project using an unsupervised approach, as well as using nlp techniques. Your suggestions for improvements are more than welcome! And please do not present my work as your own without proper citation, thank you!
